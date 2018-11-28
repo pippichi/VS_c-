@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求PI", "ConsoleApplication2\ConsoleApplication2.vcxproj", "{A5E2FBAB-5454-4605-8F51-FC55B96A6424}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E2FBAB-5454-4605-8F51-FC55B96A6424}.Debug|x64.ActiveCfg = Debug|x64
+		{A5E2FBAB-5454-4605-8F51-FC55B96A6424}.Debug|x64.Build.0 = Debug|x64
+		{A5E2FBAB-5454-4605-8F51-FC55B96A6424}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5E2FBAB-5454-4605-8F51-FC55B96A6424}.Debug|x86.Build.0 = Debug|Win32
+		{A5E2FBAB-5454-4605-8F51-FC55B96A6424}.Release|x64.ActiveCfg = Release|x64
+		{A5E2FBAB-5454-4605-8F51-FC55B96A6424}.Release|x64.Build.0 = Release|x64
+		{A5E2FBAB-5454-4605-8F51-FC55B96A6424}.Release|x86.ActiveCfg = Release|Win32
+		{A5E2FBAB-5454-4605-8F51-FC55B96A6424}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A0258C-05BC-4B52-8732-1CAE6E7534B7}
+	EndGlobalSection
+EndGlobal

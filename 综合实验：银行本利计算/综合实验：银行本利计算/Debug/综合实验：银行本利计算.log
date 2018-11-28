@@ -1,0 +1,10 @@
+﻿  account.cpp
+c:\users\hasee\source\repos\综合实验：银行本利计算\综合实验：银行本利计算\account.h(23): error C2664: “int Date::distance(Date &) const”: 无法将参数 1 从“const Date”转换为“Date &”
+  c:\users\hasee\source\repos\综合实验：银行本利计算\综合实验：银行本利计算\account.h(23): note: 转换丢失限定符
+c:\users\hasee\source\repos\综合实验：银行本利计算\综合实验：银行本利计算\account.cpp(41): error C2664: “int Date::distance(Date &) const”: 无法将参数 1 从“Date”转换为“Date &”
+  c:\users\hasee\source\repos\综合实验：银行本利计算\综合实验：银行本利计算\account.cpp(41): note: 非常量引用只能绑定到左值
+  date.cpp
+  综合实验：银行本利计算.cpp
+c:\users\hasee\source\repos\综合实验：银行本利计算\综合实验：银行本利计算\account.h(23): error C2664: “int Date::distance(Date &) const”: 无法将参数 1 从“const Date”转换为“Date &”
+  c:\users\hasee\source\repos\综合实验：银行本利计算\综合实验：银行本利计算\account.h(23): note: 转换丢失限定符
+  正在生成代码...

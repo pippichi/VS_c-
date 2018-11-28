@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "综合实验：银行本利计算", "综合实验：银行本利计算\综合实验：银行本利计算.vcxproj", "{BB758649-BEF5-473B-B8E3-83ABFB19CA0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB758649-BEF5-473B-B8E3-83ABFB19CA0C}.Debug|x64.ActiveCfg = Debug|x64
+		{BB758649-BEF5-473B-B8E3-83ABFB19CA0C}.Debug|x64.Build.0 = Debug|x64
+		{BB758649-BEF5-473B-B8E3-83ABFB19CA0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB758649-BEF5-473B-B8E3-83ABFB19CA0C}.Debug|x86.Build.0 = Debug|Win32
+		{BB758649-BEF5-473B-B8E3-83ABFB19CA0C}.Release|x64.ActiveCfg = Release|x64
+		{BB758649-BEF5-473B-B8E3-83ABFB19CA0C}.Release|x64.Build.0 = Release|x64
+		{BB758649-BEF5-473B-B8E3-83ABFB19CA0C}.Release|x86.ActiveCfg = Release|Win32
+		{BB758649-BEF5-473B-B8E3-83ABFB19CA0C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {891969BA-ED2A-4163-A9D2-BBE974F397EF}
+	EndGlobalSection
+EndGlobal

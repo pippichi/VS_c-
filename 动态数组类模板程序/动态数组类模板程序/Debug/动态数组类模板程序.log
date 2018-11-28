@@ -1,0 +1,3 @@
+﻿  动态数组类模板程序.cpp
+c:\users\hasee\source\repos\动态数组类模板程序\动态数组类模板程序\appay.h(83): warning C4715: “Array<int>::resize”: 不是所有的控件路径都返回值
+  动态数组类模板程序.vcxproj -> C:\Users\HASEE\source\repos\动态数组类模板程序\Debug\动态数组类模板程序.exe

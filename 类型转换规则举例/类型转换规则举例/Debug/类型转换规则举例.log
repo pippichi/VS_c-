@@ -1,0 +1,4 @@
+﻿  类型转换规则举例.cpp
+c:\users\hasee\source\repos\类型转换规则举例\类型转换规则举例\类型转换规则举例.cpp(30): warning C4101: “base2”: 未引用的局部变量
+c:\users\hasee\source\repos\类型转换规则举例\类型转换规则举例\类型转换规则举例.cpp(29): warning C4101: “base1”: 未引用的局部变量
+  类型转换规则举例.vcxproj -> C:\Users\HASEE\source\repos\类型转换规则举例\Debug\类型转换规则举例.exe

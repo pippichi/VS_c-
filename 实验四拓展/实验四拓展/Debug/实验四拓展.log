@@ -1,0 +1,5 @@
+﻿  实验四拓展.cpp
+c:\users\hasee\source\repos\实验四拓展\实验四拓展\实验四拓展.cpp(148): error C2664: “PEOPLE::PEOPLE(void)”: 无法将参数 3 从“const char [3]”转换为“char *”
+  c:\users\hasee\source\repos\实验四拓展\实验四拓展\实验四拓展.cpp(148): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+c:\users\hasee\source\repos\实验四拓展\实验四拓展\实验四拓展.cpp(149): error C2664: “PEOPLE::PEOPLE(void)”: 无法将参数 3 从“const char [3]”转换为“char *”
+  c:\users\hasee\source\repos\实验四拓展\实验四拓展\实验四拓展.cpp(149): note: 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)

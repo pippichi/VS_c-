@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  带析构语义的类的c++异常处理.cpp
+c:\users\hasee\source\repos\带析构语义的类的c++异常处理\带析构语义的类的c++异常处理\带析构语义的类的c++异常处理.cpp(23): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  带析构语义的类的c++异常处理.vcxproj -> C:\Users\HASEE\source\repos\带析构语义的类的c++异常处理\Debug\带析构语义的类的c++异常处理.exe

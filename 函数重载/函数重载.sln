@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数重载", "函数重载\函数重载.vcxproj", "{54188C3C-4C6B-48D6-ADF5-3B52D9A2CDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54188C3C-4C6B-48D6-ADF5-3B52D9A2CDFC}.Debug|x64.ActiveCfg = Debug|x64
+		{54188C3C-4C6B-48D6-ADF5-3B52D9A2CDFC}.Debug|x64.Build.0 = Debug|x64
+		{54188C3C-4C6B-48D6-ADF5-3B52D9A2CDFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{54188C3C-4C6B-48D6-ADF5-3B52D9A2CDFC}.Debug|x86.Build.0 = Debug|Win32
+		{54188C3C-4C6B-48D6-ADF5-3B52D9A2CDFC}.Release|x64.ActiveCfg = Release|x64
+		{54188C3C-4C6B-48D6-ADF5-3B52D9A2CDFC}.Release|x64.Build.0 = Release|x64
+		{54188C3C-4C6B-48D6-ADF5-3B52D9A2CDFC}.Release|x86.ActiveCfg = Release|Win32
+		{54188C3C-4C6B-48D6-ADF5-3B52D9A2CDFC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C0010BF-5762-4A0D-AD09-F95BB57CA377}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  width控制输出宽度.cpp
+c:\users\hasee\source\repos\width控制输出宽度\width控制输出宽度\width控制输出宽度.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hasee\source\repos\width控制输出宽度\width控制输出宽度\width控制输出宽度.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+  width控制输出宽度.vcxproj -> C:\Users\HASEE\source\repos\width控制输出宽度\Debug\width控制输出宽度.exe

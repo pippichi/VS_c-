@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "读一个文件并显示出其中0元素的位置", "读一个文件并显示出其中0元素的位置\读一个文件并显示出其中0元素的位置.vcxproj", "{8248922D-B3E6-4AAE-98CF-BCF332D70B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8248922D-B3E6-4AAE-98CF-BCF332D70B16}.Debug|x64.ActiveCfg = Debug|x64
+		{8248922D-B3E6-4AAE-98CF-BCF332D70B16}.Debug|x64.Build.0 = Debug|x64
+		{8248922D-B3E6-4AAE-98CF-BCF332D70B16}.Debug|x86.ActiveCfg = Debug|Win32
+		{8248922D-B3E6-4AAE-98CF-BCF332D70B16}.Debug|x86.Build.0 = Debug|Win32
+		{8248922D-B3E6-4AAE-98CF-BCF332D70B16}.Release|x64.ActiveCfg = Release|x64
+		{8248922D-B3E6-4AAE-98CF-BCF332D70B16}.Release|x64.Build.0 = Release|x64
+		{8248922D-B3E6-4AAE-98CF-BCF332D70B16}.Release|x86.ActiveCfg = Release|Win32
+		{8248922D-B3E6-4AAE-98CF-BCF332D70B16}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C723B5-79B1-47AD-A05A-6A420231CBB2}
+	EndGlobalSection
+EndGlobal

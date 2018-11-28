@@ -1,0 +1,9 @@
+﻿  函数对象10-14，类.cpp
+d:\visual studio 2017\vc\tools\msvc\14.14.26428\include\numeric(26): error C2064: 项不会计算为接受 2 个参数的函数
+  c:\users\hasee\source\repos\函数对象10-14，类\函数对象10-14，类\函数对象10-14，类.cpp(21): note: 参见对正在编译的函数 模板 实例化“_Ty std::accumulate<int*,int,MultClass>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=int *,
+              _Fn=MultClass
+          ]

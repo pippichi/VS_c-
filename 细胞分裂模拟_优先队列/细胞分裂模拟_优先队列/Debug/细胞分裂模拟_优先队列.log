@@ -1,0 +1,3 @@
+﻿  细胞分裂模拟_优先队列.cpp
+c:\users\hasee\source\repos\细胞分裂模拟_优先队列\细胞分裂模拟_优先队列\细胞分裂模拟_优先队列.cpp(51): error C2662: “void Cell::split(void)”: 不能将“this”指针从“const Cell”转换为“Cell &”
+  c:\users\hasee\source\repos\细胞分裂模拟_优先队列\细胞分裂模拟_优先队列\细胞分裂模拟_优先队列.cpp(51): note: 转换丢失限定符

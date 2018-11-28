@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  hanoi移动盘子攻略.cpp
+c:\users\hasee\source\repos\hanoi移动盘子攻略\hanoi移动盘子攻略\hanoi移动盘子攻略.cpp(28): warning C4101: “i”: 未引用的局部变量
+  hanoi移动盘子攻略.vcxproj -> C:\Users\HASEE\source\repos\hanoi移动盘子攻略\Debug\hanoi移动盘子攻略.exe
